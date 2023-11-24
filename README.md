@@ -1,4 +1,4 @@
-![thesimslogoimage](https://github.com/lwdgeek/modmanagers-thesims4/blob/main/src/App.Win/Resources/Images/Logos/Logo_TheSims4.png)
+![Logo](https://github.com/dekthaiinchina/modmanagers-thesims4/blob/main/src/App.Win/Resources/Images/Logos/Logo_TheSims4.png)
 
 # Mod Managers - The Sims 4
 
