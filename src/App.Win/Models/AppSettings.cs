@@ -9,7 +9,7 @@ namespace LwdGeeks.ModManagers.TheSims4.App.Win.Models
             string userProfileFolder,
             string appDataFolder)
         {
-            AppVersion = "1.0.22021.1-beta";
+            AppVersion = "1.3.231124.7-beta";
             UserProfileFolder = userProfileFolder;
             AppDataFolder = appDataFolder;
 

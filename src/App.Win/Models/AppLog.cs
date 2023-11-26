@@ -11,7 +11,7 @@
         {
             return new()
             {
-                Reference = DateTime.Now.ToString("yymmddhhmmssfff"),
+                Reference = DateTime.Now.ToString("yyy-mmm-ddd-hhh-mmm-sss-fff"),
                 Message = message,
                 ExceptionMessage = ex.Message,
                 InnerExceptionMessage = ex.InnerException?.Message!
